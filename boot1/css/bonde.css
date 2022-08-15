@@ -1,0 +1,105 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    height:auto;
+}
+
+.navbar-brand{
+font-weight:1000;
+letter-spacing: 1.5px;
+text-shadow:0px 0px 6px #f0ffff;
+text-transform: uppercase;
+}
+.navbar{
+    background-color:rgb(78, 76, 87)
+}
+.navbar-nav{
+ margin-left: auto;
+}
+.nav-link
+{
+    font-weight: 700;
+    letter-spacing: 1px;
+    color:azure;
+    margin-right: 30px;
+}
+.nav-link:hover{ color: black;   }
+.nav-link:focus
+{
+color: black;
+}
+
+.row1 {
+  margin-left: 0%;
+ height:auto;
+ background-color: rgb(200, 198, 204);
+}
+
+
+.row2{
+    margin-left: 0%;
+padding-top:20px ;
+ background-color: rgb(200, 198, 204,0.8); ;
+height: auto;
+}
+.row p{
+width: auto;
+font-weight:700;
+}
+.col-lg-4  h2{ font-weight: 700; }
+.col-lg-3  h2{
+    font-weight: 700;
+}
+img{
+    width:200px;   
+}
+.imgb{
+width:500px;
+height: 300px;
+padding-bottom: 20px;
+}
+.row3{
+background-color: rgb(200, 198, 204); 
+margin-left:0% ;
+height:auto ;
+}
+.row4{ 
+    padding-top:5px ;
+    background-color: rgb(200, 198, 204,0.8); 
+    height:400px ;
+margin-left:0% ;
+height: auto;
+}
+
+ .i1 {
+    margin-bottom:50px ;
+    width: 100px;
+    border-radius:50% 5px ;
+    border-left:2px solid  azure   ; 
+    border-right:2px solid  azure   ; 
+height:50px ;
+}
+.row0{
+    padding-top:5px ;
+    background-color: rgb(94, 92, 99,0.8); 
+margin-left:0% ;
+height: auto;
+}
+
+.i11{
+    width:30px ;
+    height:50px ;
+}
+ .i22{
+
+
+position: fixed;
+bottom: 10px;
+right:-30px ;
+
+ }
+ .i22.i33{
+    right:10px ;
+    color: black;
+     }
+
+ 
